@@ -32,6 +32,7 @@
 
 .zoom{
     background-size: 100%;
+    background-repeat: no-repeat;
 }
  @media (max-width: 576px) {
     .zoom{
