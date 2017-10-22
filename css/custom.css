@@ -2,12 +2,14 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500');
 
 /*start*/
+
 #demo-canvas{
-        background: url('https://static.pexels.com/photos/176851/pexels-photo-176851.jpeg') no-repeat center center ;
+        background: url('http://www.thecyphereffect.com/wp-content/uploads/2015/01/the-cypher-effect-background-2.jpg') no-repeat center center ;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
         -o-background-size: cover;
+        background-position: center bottom;
  }
 
 .large-header {
